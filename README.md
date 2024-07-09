@@ -3,6 +3,7 @@
 This project uses OpenCV, Mediapipe, and PyAutoGUI to create a virtual mouse controlled by hand movements. The project uses a webcam feed to detect hand landmarks and perform mouse movements and clicks based on specific gestures.
 
 ## Features
+![Alt text](hand_detection_label.png)
 
 - **Move Mouse**: Move the cursor by raising the tip of your index finger.
 - **Mouse Click**: Click by raising both the index finger and middle finger tips simultaneously.
