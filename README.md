@@ -11,7 +11,7 @@ This project uses OpenCV, Mediapipe, and PyAutoGUI to create a virtual mouse con
 
 To run this project, you'll need the following dependencies:
 
-- Python 3.x
+- Python 3.12.4
 - OpenCV
 - Mediapipe
 - PyAutoGUI
